@@ -9,4 +9,4 @@
 As tecnologias que foram utilizadas são as seguintes: 
 
 - <a href="https://pt.wikipedia.org/wiki/SQL">SQL</a>
-- <a href= "https://www.microsoft.com/pt-br/sql-server/sql-server-2019">SQL Server 2019</a>
+- <a href= "https://www.microsoft.com/pt-br/sql-server/sql-server-2019">SMSS (SQL Server Management Studio)</a>
